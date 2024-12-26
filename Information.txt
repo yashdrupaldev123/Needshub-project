@@ -1,0 +1,104 @@
+to run drush command on subsite: drush --uri=<subsite-virtualhost-uri> <drush-command>
+
+
+LIVE SERVER
+
+needshub.com
+Username: engineer
+Password: Lit12_()
+
+Dev C Panel information
+
+https://server12.somanglobaltechnologies.com/cpanel
+
+Username: fomage
+Password: ,p;,95T4KymA 
+
+FTP server: 
+------------------
+ftp.fomage.com
+Username: developer@fomage.com
+Password: developer12##
+
+
+AUTHORIZED.NET Cridential
+-----------------------------------------
+Login Id: NeedshubStore123
+pass: @Douce12##
+
+Transaction key: 2X938Tyx55kk52G3
+Client key: 274r8b59CAF9vsdgY2HSfAH2cMr8Hsh9DuGA8eKf4Qe2DrRfVCESwCX4NdyBju5s
+
+Steps to set AUTHORIZED.NET payment Integration system in drupal
+---------------------------------------------------------------------------------------
+First we need to install Commerce Authorized.net Module in our site
+1. Signup to AUTHORIZED.NET sandbox using this link: https://developer.authorize.net/hello_world/sandbox.html
+2. Create LoginID and password during Signup
+3. Login to AUTHORIZED.NET sandbox using: https://sandbox.authorize.net/
+4. Go to Account menu link
+5. Go to Security setting section, you will get option to manage 'Transaction key' and 'Client key' links, there you can generate
+   the 'Transaction key' and 'Client key'.
+
+For pushing this module on live/dev server:
+Along with module, we need to push its dependency from vendor folder:
+commerceguys/authnet
+lcobucci
+psr
+stella-maris
+drupal/commerce_authnet
+
+NeedshubAd123
+
+2P69w2Uf235hbFeN
+
+36xREn96h7ySHEzpHmgdTbLVUD3g6bU7u2XR6LKtRcPNuLpSJyY8JB8gR9uz59nC
+
+
+
+
+
+Needshub new db info (27 september)
+=======
+DB: fomage_needshub_commerce
+Username: fomage_needshub_commerce_dev  
+Password: m0TunY&Wv{Dl
+
+
+
+
+ghanadeal d10 site  info
+===================
+email id = info@needshub.com
+pass = admin12##
+
+
+needsub d7 and ghanadeal d7
+Username: engineer
+Password: Poty_90
+===========================
+
+Needshub D7 site
+=============================
+File Path:  C:\xampp\htdocs\needshub-ghanadeal
+virtualhost:    localhost.needshubsite
+
+credential:
+username: engineer
+password: Poty_90
+
+===========================
+
+Needshub and Ghanadeal D10 site
+
+File Path: C:\xampp\htdocs\needshub-d10
+Needshub D10 site
+http://localhost.needshub-d10/
+
+credential:
+username: admin
+password:  admin12##
+
+http://localhost.ghanadeal/
+credential:
+username: info@needshub.com
+password:  admin12##
